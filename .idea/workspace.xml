@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c1ee258-dbf2-437c-ae19-b2c9c1bf9fd7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/angulars_versions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/assets/nature/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/test-v10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/test-v10/ngx-bootstrap-7.0.0-rc.3-without-partial.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v10/test10angularScss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v11/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v11/tes11angularclean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v11/test-v11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v11/test11angularscss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v12/test12angularproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v12/testangularComments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v12/testschematicsscss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v13/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v7/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v7/test-v7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v8/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v8/test-v8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/clean10angularproject/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/clean10angularproject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v10/clean10angularproject/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/clean10angularproject/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/clean10angularproject/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test-v10/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test-v10/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test-v10/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test-v10/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test-v10/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test-v10/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test-v10/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test-v10/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test-v10/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test-v10/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test10angularScss/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test10angularScss/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test10angularScss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test10angularScss/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test10angularScss/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test10angularScss/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test10angularScss/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test10angularScss/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v10/test10angularScss/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/v10/test10angularScss/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test-v11/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test-v11/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test-v11/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test-v11/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test-v11/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test-v11/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test-v11/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test-v11/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test-v11/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test-v11/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test-v11/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test-v11/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test11angularscss/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test11angularscss/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test11angularscss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test11angularscss/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test11angularscss/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test11angularscss/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test11angularscss/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test11angularscss/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v11/test11angularscss/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/v11/test11angularscss/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/app/link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/src/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/v12/test12angularproject/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/test12angularproject/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/testangularComments/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/v12/testangularComments/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/testschematicsscss/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/v12/testschematicsscss/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/testschematicsscss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v12/testschematicsscss/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/testschematicsscss/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v12/testschematicsscss/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/testschematicsscss/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v12/testschematicsscss/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v12/testschematicsscss/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/v12/testschematicsscss/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-version/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-version/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-version/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-version/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-version/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-version/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-version/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-version/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-lib/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-lib/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v13/test-with-lib/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/v13/test-with-lib/modules/test-project/tsconfig.spec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/v10/clean10angularproject" />
+  </component>
+  <component name="ProjectId" id="1wo7vHZxDZtcWiTezE56Ph3lE7P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c1ee258-dbf2-437c-ae19-b2c9c1bf9fd7" name="Changes" comment="" />
+      <created>1629113317161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629113317161</updated>
+      <workItem from="1629113318496" duration="12000" />
+      <workItem from="1645373078570" duration="481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/v13/test-with-lib/modules/test-lib/dist/test-lib/test-lib.d.ts" />
+        <option value="$PROJECT_DIR$/v13/test-with-lib/modules/test-lib/dist/test-lib" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v10/clean10angularproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v10/test-v10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v10/test10angularScss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v11/tes11angularclean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v11/test-v11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v11/test11angularscss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v12/test12angularproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v12/testangularComments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v12/testschematicsscss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v13/test-version" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v13/test-with-lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v7/test-v7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v8/test-v8" vcs="Git" />
+  </component>
+</project>
